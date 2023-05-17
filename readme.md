@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/metrikspacex-resume/react-fem-qr-code-component)
-- Live Site URL: [Site](https://metrikspacex.github.io/react-fem-qr-code-component)
+- Solution URL: [Solution](https://github.com/metrikspacex-resume/react-fem-qr-code-component/)
+- Live Site URL: [Site](https://metrikspacex-resume.github.io/react-fem-qr-code-component/)
 
 ### Built with
 
